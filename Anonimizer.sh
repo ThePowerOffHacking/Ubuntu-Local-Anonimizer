@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#The Power Off Hacking --> https://github.com/ThePowerOffHacking
+
 ##################################################################
 #Tamaño de la terminal = 110x36
 ##################################################################

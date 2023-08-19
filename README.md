@@ -25,6 +25,7 @@ Dirigete al script Anonimizer.sh y modifica estas variables según tus necesidad
 
 Paso 3 Ejecución de la herramienta
 
+chmod +x Anonimizer.sh
 bash Anonimizer.sh
 
 # Configurar Anonimizer en el arranque del sistema

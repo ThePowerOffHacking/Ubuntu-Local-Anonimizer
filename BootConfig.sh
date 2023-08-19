@@ -31,7 +31,9 @@ ls /usr/bin/.Anonimizzer > /dev/null
   	echo "[+] Parece que Anonimizer ya está configurado en caso de error. Prueba a desconfigurarlo y vuélvelo a intentar."
   	exit
     fi
+    
 sudo mkdir -p /usr/bin/.Anonimizzer # Crea una carpeta donde se guardarán los archivos
+chmod +x *
 sudo cp * /usr/bin/.Anonimizzer    # Envía todos los archivos de Anonimizer a la carpeta
 sudo cp Redirect.sh ~/.config/autostart/         # Envía el script a la carpeta autostart
 sudo cp Anonimizer.desktop ~/.config/autostart/    # Envía el .desktop a la carpeta autostart

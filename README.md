@@ -14,11 +14,11 @@ Anonimizer NO es mágico, existen medidas adicionales que deberas implementar en
 Anonimizer puede configurarse para que se ejecute cada vez que enciende el ordenador (Recomendable)
 
 - APAGA LA TARJETA DE RED WIFI Y CABLEADA
-- CAMBIA LAS DIRECCIONES MAC DE LAS TARJETAS DE RED
-- CAMBIA EL HOSTNAME TEMPORAL Y PERMANENTE
+- SPOOFEA LAS DIRECCIONES MAC DE LAS TARJETAS DE RED
+- SPOOFEA EL HOSTNAME TEMPORAL Y PERMANENTE
 - ACTIVA EL FIREWALL
 - ENCIENDE LAS TARJETAS DE RED
-- CAMBIA LA ZONA HORARIA LOCAL
+- SPOOFEA LA ZONA HORARIA LOCAL
 - DESACTIVA LA CÁMARA
 - MUTEA EL MICROFONO
 - DESACTIVA EL BLUETOOTH
@@ -46,10 +46,10 @@ sudo apt install -y net-tools trash-cli macchanger sox figlet ufw alsa-utils kmo
 
 Dirigete al script Anonimizer.sh y modifica estas variables según tus necesidades:
 
-. Variables TarjetaDeRed --> En estas variables ingresa los nombres de tus tarjetas de Red Wifi y Cableada
-. Variable TimeZonee     --> Ingresa aquí la zona horaria que va a Spoofear tu ordenador. (Opcional)
-. Variable SSID y PASS   --> Ingresa aquí el SSID y la Contraseña de tu Red Wi-Fi
-. Variable Hostnames     --> En este apartado puedes cambiar la lista de hostnames si lo deseas.
+- Variables TarjetaDeRed  --> En estas variables ingresa los nombres de tus tarjetas de Red Wifi y Cableada
+- Variable TimeZone       --> Ingresa aquí la zona horaria que va a Spoofear tu ordenador. (Opcional)
+- Variable SSID y PASS    --> Ingresa aquí el SSID y la Contraseña de tu Red Wi-Fi
+- Variable Hostnames      --> En este apartado puedes cambiar la lista de hostnames si lo deseas.
 
 # [CONFIGURAR/DESCONFIGURAR ANONIMIZER EN EL ARRANQUE DEL SISTEMA]
 

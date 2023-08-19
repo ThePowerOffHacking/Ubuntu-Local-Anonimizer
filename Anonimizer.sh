@@ -28,10 +28,10 @@
 ##################################################################
 
 TarjetaDeRedWifi="wlo1"       #<----------------------  Escribe aquí el nombre de tu interfaz de red Wifi            
-TarjetaDeRedCable="enp3s0f1"  #<----------------------  Escribe aquí el nombre de tu interfaz de red cableada
+TarjetaDeRedCable="eth0"  #<----------------------  Escribe aquí el nombre de tu interfaz de red cableada
 TimeZonee="Europe/Paris"       #<----------------------  Escribe aquí la zona horaria que quieres suplantar
-SSID="IPhone de Rigoberta"          #<----------------------  Escribe aquí el SSID de tu Red Wi-Fi     
-PASS="FUERADEMIREDHIJODEFRUTA200069berenjena"   #<----------------------  Escribe aquí la Password de tu Red Wi-Fi
+SSID="Movistar5G"          #<----------------------  Escribe aquí el SSID de tu Red Wi-Fi     
+PASS="Password123"   #<----------------------  Escribe aquí la Password de tu Red Wi-Fi
 
 #Lista de Hostnames que va a suplantar el ordenador  (Puedes cambiarla a tu gusto)
 Hostnames="Hoverboard

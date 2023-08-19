@@ -5,7 +5,13 @@ Ubuntu Local Anonimizer es un script diseñado para anonimizar el S.O Ubuntu a n
 - Este script ha sido programado 100% en bash.
 - Testeado en Ubuntu pero podría funcionar (o no) en diferentes distribuciones.
 
+# [DISCLAIMER]
+
+Anonimizer NO es mágico, existen medidas adicionales que deberas implementar en tu sistema para mejorar la privacidad y el anonimato pero desde luego, tu rastro estará más cubierto cuando lo utilices.
+
 # [PROCESOS DE ANONIMIZER]
+
+Anonimizer puede configurarse para que se ejecute cada vez que enciende el ordenador (Recomendable)
 
 - APAGA LA TARJETA DE RED WIFI Y CABLEADA
 - CAMBIA LAS DIRECCIONES MAC DE LAS TARJETAS DE RED
@@ -21,13 +27,14 @@ Ubuntu Local Anonimizer es un script diseñado para anonimizar el S.O Ubuntu a n
 - ELIMINA LOS LOGS DE LA CARPETA /VAR/LOG/
 - VACÍA LA PAPELERA
 - UNA VEZ HECHO TODO SE CONECTA AL WIFI
+- UNA VEZ COMPLETADO EL PROCESO DE ANONIMIZACIÓN EL SCRIPT SE AUTODESTRUIRÁ
 
 # [ESTE SCRIPT NO HACE]
 
-Este script No se conecta a TOR ni a una VPN/Proxi  
+- Este script No se conecta a TOR ni a una VPN/Proxi  
 (Tu eres el único que puede decidir como cifrar tu conexión)
 
-Este script No configura servidores DNS privados    
+- Este script No configura servidores DNS privados    
 (Puedes configurarlos manualmente en la config de tu red Wifi es fácil y permanente,
 no tendría sentido re-configurarlos cada vez que se ejecute la herramienta)
                                                     

@@ -46,10 +46,10 @@ sudo apt install -y net-tools trash-cli macchanger sox figlet ufw alsa-utils kmo
 
 Dirigete al script Anonimizer.sh y modifica estas variables según tus necesidades:
 
-0. Variables TarjetaDeRed --> En estas variables ingresa los nombres de tus tarjetas de Red Wifi y Cableada
-1. Variable TimeZonee     --> Ingresa aquí la zona horaria que va a Spoofear tu ordenador. (Opcional)
-2. Variable SSID y PASS   --> Ingresa aquí el SSID y la Contraseña de tu Red Wi-Fi
-3. Variable Hostnames     --> En este apartado puedes cambiar la lista de hostnames si lo deseas.
+. Variables TarjetaDeRed --> En estas variables ingresa los nombres de tus tarjetas de Red Wifi y Cableada
+. Variable TimeZonee     --> Ingresa aquí la zona horaria que va a Spoofear tu ordenador. (Opcional)
+. Variable SSID y PASS   --> Ingresa aquí el SSID y la Contraseña de tu Red Wi-Fi
+. Variable Hostnames     --> En este apartado puedes cambiar la lista de hostnames si lo deseas.
 
 # [CONFIGURAR/DESCONFIGURAR ANONIMIZER EN EL ARRANQUE DEL SISTEMA]
 

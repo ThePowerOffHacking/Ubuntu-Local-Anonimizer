@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/.Anonimizzer/Redirect.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[es_ES]=Anonimizer
+Name=Anonimizer
+Comment[es_ES]=Anonimiza tu ordenador antes de conectarte a internet
+Comment=Anonimiza tu ordenador antes de conectarte a internet

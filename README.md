@@ -16,8 +16,6 @@ Ubuntu Local Anonimizer es un script diseñado para anonimizar el S.O Ubuntu a n
 
 # Paso 2 Configurar las Variables
 
-- nano Anonimizer.sh
-
 Dirigete al script Anonimizer.sh y modifica estas variables según tus necesidades:
 
 - Variables TarjetaDeRed  --> En estas variables ingresa los nombres de tus tarjetas de Red Wifi y Cableada
@@ -39,8 +37,6 @@ bash Anonimizer.sh
 - bash BootConfig.sh
 - Selecciona la opción nº 2- 
   
-[Anonimizer.webm](https://github.com/ThePowerOffHacking/Ubuntu-Local-Anonimizer/assets/142690061/6d28ec78-5f04-412b-baea-235fd4f5f7c9)
-
 # [DISCLAIMER]
 
 Este script NO es la formula mágica de el anonimato,existen medidas adicionales que deberas implementar en tu sistema para mejorar la privacidad y el anonimato pero desde luego, tu rastro estará más cubierto cuando lo utilices.
@@ -64,6 +60,9 @@ Anonimizer puede configurarse para que se ejecute cada vez que enciende el orden
 - VACÍA LA PAPELERA
 - UNA VEZ HECHO TODO SE CONECTA AL WIFI
 - UNA VEZ COMPLETADO EL PROCESO DE ANONIMIZACIÓN EL SCRIPT SE AUTODESTRUIRÁ
+
+[Anonimizer.webm](https://github.com/ThePowerOffHacking/Ubuntu-Local-Anonimizer/assets/142690061/6d28ec78-5f04-412b-baea-235fd4f5f7c9)
+
 
 # [ESTE SCRIPT NO HACE]
 

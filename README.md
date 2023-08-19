@@ -7,14 +7,14 @@ Ubuntu Local Anonimizer es un script diseñado para anonimizar el S.O Ubuntu a n
 
 # Instalación de Ubuntu-Local-Anonimizer
 
-# Paso 1 Descargar la herramienta y los requisitos
+Paso 1 Descargar la herramienta y los requisitos
 
 - git clone https://github.com/ThePowerOffHacking/Ubuntu-Local-Anonimizer.git
 - cd Ubuntu-Local-Anonimizer
 - chmod +x Requirements.sh
 - bash Requirements.sh
 
-# Paso 2 Configurar las Variables
+Paso 2 Configurar las Variables
 
 Dirigete al script Anonimizer.sh y modifica estas variables según tus necesidades:
 
@@ -23,16 +23,16 @@ Dirigete al script Anonimizer.sh y modifica estas variables según tus necesidad
 - Variable SSID y PASS    --> Ingresa aquí el SSID y la Contraseña de tu Red Wi-Fi
 - Variable Hostnames      --> En este apartado puedes cambiar la lista de hostnames si lo deseas.
 
-# Ejecución de Ubuntu-Local-Anonimizer
+Ejecución de Ubuntu-Local-Anonimizer
 bash Anonimizer.sh
 
-# Configurar Anonimizer en el arranque del sistema
+Configurar Anonimizer en el arranque del sistema
 
 - bash BootConfig.sh
 - Selecciona la opción nº 1
 - reboot
 
-# Desconfigurar Anonimizares en el arranque del sistema
+Desconfigurar Anonimizares en el arranque del sistema
 
 - bash BootConfig.sh
 - Selecciona la opción nº 2- 

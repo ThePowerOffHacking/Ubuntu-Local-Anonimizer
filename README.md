@@ -1,4 +1,4 @@
-# 𝘜𝘣𝘶𝘯𝘵𝘶-𝘓𝘰𝘤𝘢𝘭-𝘈𝘯𝘰𝘯𝘪𝘮𝘪𝘤𝘦𝘳 🎭
+# 𝘜𝘣𝘶𝘯𝘵𝘶-𝘓𝘰𝘤𝘢𝘭-𝘈𝘯𝘰𝘯𝘪𝘮𝘪z𝘦𝘳 🎭
 
 Ubuntu Local Anonimizer es un script diseñado para anonimizar el S.O Ubuntu a nivel local (Antes de conectarse a internet)
 

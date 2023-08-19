@@ -2,6 +2,8 @@
 
 Ubuntu Local Anonimizer es un script diseñado para anonimizar el S.O Ubuntu a nivel local (Antes de conectarse a internet)
 
+[Anonimizer.webm](https://github.com/ThePowerOffHacking/Ubuntu-Local-Anonimizer/assets/142690061/6d28ec78-5f04-412b-baea-235fd4f5f7c9)
+
 - Este script ha sido programado 100% en bash.
 - Testeado en Ubuntu pero podría funcionar (o no) en diferentes distribuciones.
 
